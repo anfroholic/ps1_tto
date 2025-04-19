@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 sames as john  
+
 Explain how your project works
 
 ## How to test
 huh?
+
 Explain how to use your project
 
 ## External hardware
 there is none
+
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
